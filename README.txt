@@ -5,3 +5,4 @@ System Requirements:
 - MySQL versi...
 - HTTP server (Apache, nginx, dll)
 - regis
+- Phyton
